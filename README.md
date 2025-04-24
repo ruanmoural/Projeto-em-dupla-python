@@ -1,4 +1,4 @@
-# Projeto-em-dupla-python
+
 
 ## 📌 Descrição
 Este projeto consiste em uma calculadora desenvolvida em Python. Ele foi criado como atividade prática da disciplina de (Programação de Computadores), ministrada pelo professor Jeofton Costa Melo, no curso de Análise e Desenvolvimento de Sistemas da Faculdade UNIPÊ, em *João Pessoa - PB*, no primeiro período.
