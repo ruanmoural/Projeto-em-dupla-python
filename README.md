@@ -12,6 +12,9 @@ A calculadora é capaz de realizar as seguintes operações matemáticas:
 - ✅ Potenciação
 - ✅ Raiz quadrada
 - ✅ Porcentagem (aumentar e diminuir)
+- ✅ Triplo
+- ✅ Inverso
+- ✅ Pár ou ímpar
 
 ## 🖥️ Como executar
 1. Certifique-se de que o Python está instalado em seu computador.
